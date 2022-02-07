@@ -1,6 +1,6 @@
 org: YOUR_SERVERLESS_ORG_HERE
-app: deportivo-carolina-frontend
-service: deportivo-carolina-frontend
+app: my-app
+service: my-app
 frameworkVersion: "3"
 
 custom:
